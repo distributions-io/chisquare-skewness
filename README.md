@@ -6,8 +6,8 @@ Skewness
 
 The [skewness](https://en.wikipedia.org/wiki/skewness) for a [Chi-squared](https://en.wikipedia.org/wiki/Chi-squared_distribution) random variable is
 
-<div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = " data-equation="eq:skewness">
-	<img src="" alt="Skewness for a Chi-squared distribution.">
+<div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \sqrt{8/k}" data-equation="eq:skewness">
+	<img src="https://cdn.rawgit.com/distributions-io/chisquare-skewness/c0b57e85705ee6d8d9c41b7c0ce8011ed5bd2e24/docs/img/eqn.svg" alt="Skewness for a Chi-squared distribution.">
 	<br>
 </div>
 
