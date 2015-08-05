@@ -36,6 +36,7 @@ describe( 'number skewness', function tests() {
 
 	it( 'should return `NaN` for invalid values of parameter k', function test() {
 		assert.isTrue( isnan( skewness( -1 ) ) );
+		assert.isTrue( isnan( skewness( 0 ) ) );
 	});
 
 });
