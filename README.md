@@ -103,7 +103,10 @@ var k = [
 	{'x':[9,16]}
 ];
 
-var out = skewness( k, 'x|1', '|' );
+var out = skewness( k, {
+	'path': 'x|1',
+	'sep': '|'
+});
 /*
 	[
 		{'x':[9,~2.000]},

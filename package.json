@@ -1,7 +1,7 @@
 {
   "name": "distributions-chisquare-skewness",
   "version": "0.0.0",
-  "description": "Chi-squared distribution mean.",
+  "description": "Chi-squared distribution skewness.",
   "author": {
     "name": "Philipp Burckhardt",
     "email": "pburckhardt@outlook.com"
